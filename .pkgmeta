@@ -1,0 +1,6 @@
+package-as: DataStore_Talents
+
+ignore:
+ - LICENCE.md
+ - README.md
+ - Utils
