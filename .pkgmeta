@@ -1,5 +1,8 @@
 package-as: DataStore_Talents
 
+move-folders:
+ DataStore_Talents/DataStore_Talents: DataStore_Talents
+
 ignore:
  - LICENCE.md
  - README.md
