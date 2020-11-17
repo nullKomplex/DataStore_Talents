@@ -1,4 +1,4 @@
-## Interface: 90001
+## Interface: 90002
 ## Title: DataStore_Talents
 ## Notes: Stores information about character talents
 ## Author: Thaoky (EU-Marécages de Zangar)
